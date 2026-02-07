@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/37RBkWzL9ugAAAAe/hewwo-fwiends-hello.png" alt="Anime girl waving hello GIF" width="300">
+  <img src="https://giffiles.alphacoders.com/219/219894.gif" alt="Anime girl waving hello GIF" width="300">
 </p>
 
 <h1 align="center">🌸 𝒦𝑜𝓃'𝓃𝒾𝒸𝒽𝒾𝓌𝒶! 🌸</h1>
@@ -14,7 +14,7 @@
 - **Fun Fact:** I code like a shinobi – fast and precise! 🥷
 
 <p align="center">
-  <img src="https://media.tenor.com/V4umFDDX0NUAAAAe/ina-waving.png" alt="Anime character waving GIF" width="200">
+  <img src="https://giffiles.alphacoders.com/221/221259.gif" alt="Anime character waving GIF" width="200">
 </p>
 
 ### 🛠️ Languages & Tools 🛠️
@@ -51,7 +51,7 @@ Here are some of the tools and languages I wield in my digital dojo:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-o-los&bg_color=1a1b27&color=bb9af7&line=bb9af7&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 </p>
 
-### ⏱️ WakaTime Coding Stats ⏱️
+### ⏱️ Coding Stats ⏱️
 
 <!--START_SECTION:waka-->
 
@@ -92,15 +92,11 @@ Last Updated on 07/02/2026 13:27:57 UTC
 
 <!--END_SECTION:waka-->
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Animated coding setup GIF" width="500">
-</p>
-
-### 🐍 Contribution Snake Animation 🐍
+<!-- ### 🐍 Contribution Snake Animation 🐍
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/dev-o-los/dev-o-los/output/snake.svg" alt="Snake animation" />
-</p>
+</p> -->
 
 ---
 
