@@ -1,44 +1,77 @@
-# 💻 Tech Stack:
+<p align="center">
+  <img src="https://media.tenor.com/37RBkWzL9ugAAAAe/hewwo-fwiends-hello.png" alt="Anime girl waving hello GIF" width="300">
+</p>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<h1 align="center">🌸 𝒦𝑜𝓃'𝓃𝒾𝒸𝒽𝒾𝓌𝒶! 🌸</h1>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="Animated coding banner" width="600">
+</p>
+
+### 🌟 About Me 🌟
+
+- **Name:** dev-o-los
+- **Location:** India
+- **Interests:** Coding, anime marathons, gaming, and exploring Web
+- **Current Quest:** Mastering new languages and building epic projects!
+- **Favorite Anime:** Eminence in Shadow
+- **Pronouns:** He/him
+- **Fun Fact:** I code like a shinobi – fast and precise! 🥷
+
+<p align="center">
+  <img src="https://media.tenor.com/V4umFDDX0NUAAAAe/ina-waving.png" alt="Anime character waving GIF" width="200">
+</p>
+
+### 🛠️ Languages & Tools 🛠️
+
+Here are some of the tools and languages I wield in my digital dojo:
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
+  <!-- Add more as needed, e.g., from https://devicon.dev/ -->
+</p>
+
+<p align="center">
+  <img src="https://i.redd.it/jv3z6dhkzuc61.gif" alt="Anime character coding GIF" width="400">
+</p>
+
+### 📊 GitHub Stats 📊
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-o-los&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-o-los&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+### 📅 Contribution Calendar & Activity Tracker 📅
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-o-los&bg_color=1a1b27&color=bb9af7&line=bb9af7&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+</p>
+
+### ⏱️ WakaTime Coding Stats ⏱️
+
+<!--START_SECTION:waka-->
+<!-- Your WakaTime stats will auto-update here via workflow -->
+<!--END_SECTION:waka-->
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Animated coding setup GIF" width="500">
+</p>
+
+### 🐍 Contribution Snake Animation 🐍
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dev-o-los/dev-o-los/output/snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=dev-o-los&show_icons=true&theme=dark)
-![](https://streak-stats.demolab.com?user=dev-o-los&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-o-los&layout=compact&theme=dark)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=dev-o-los&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=dev-o-los&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=dev-o-los&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">Made with ❤️ and a dash of anime magic! Feel free to fork and customize.</p>
