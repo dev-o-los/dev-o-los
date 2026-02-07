@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/219/219894.gif" alt="Anime girl waving hello GIF" width="300">
+  <img src="https://giffiles.alphacoders.com/219/219894.gif" alt="Anime girl waving hello GIF" width="500">
 </p>
 
 <h1 align="center">🌸 𝒦𝑜𝓃'𝓃𝒾𝒸𝒽𝒾𝓌𝒶! 🌸</h1>
@@ -14,7 +14,7 @@
 - **Fun Fact:** I code like a shinobi – fast and precise! 🥷
 
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/221/221259.gif" alt="Anime character waving GIF" width="200">
+  <img src="https://giffiles.alphacoders.com/221/221259.gif" alt="Anime character waving GIF" width="500">
 </p>
 
 ### 🛠️ Languages & Tools 🛠️
@@ -35,7 +35,7 @@ Here are some of the tools and languages I wield in my digital dojo:
 </p>
 
 <p align="center">
-  <img src="https://i.redd.it/jv3z6dhkzuc61.gif" alt="Anime character coding GIF" width="400">
+  <img src="https://i.redd.it/jv3z6dhkzuc61.gif" alt="Anime character coding GIF" width="500">
 </p>
 
 <!-- ### 📊 GitHub Stats 📊
