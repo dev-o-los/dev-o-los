@@ -59,7 +59,11 @@ Here are some of the tools and languages I wield in my digital dojo:
 ### ⏱️ WakaTime Coding Stats ⏱️
 
 <!--START_SECTION:waka-->
-<!-- Your WakaTime stats will auto-update here via workflow -->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <p align="center">
