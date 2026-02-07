@@ -4,14 +4,9 @@
 
 <h1 align="center">🌸 𝒦𝑜𝓃'𝓃𝒾𝒸𝒽𝒾𝓌𝒶! 🌸</h1>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="Animated coding banner" width="600">
-</p>
-
 ### 🌟 About Me 🌟
 
 - **Name:** dev-o-los
-- **Location:** India
 - **Interests:** Coding, anime marathons, gaming, and exploring Web
 - **Current Quest:** Mastering new languages and building epic projects!
 - **Favorite Anime:** Eminence in Shadow
