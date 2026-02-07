@@ -14,7 +14,7 @@
 - **Fun Fact:** I code like a shinobi – fast and precise! 🥷
 
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/221/221259.gif" alt="Anime character waving GIF" width="500">
+  <img src="https://giffiles.alphacoders.com/221/221259.gif" alt="Anime character waving GIF" height="200" width="500">
 </p>
 
 ### 🛠️ Languages & Tools 🛠️
