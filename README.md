@@ -54,11 +54,41 @@ Here are some of the tools and languages I wield in my digital dojo:
 ### ⏱️ WakaTime Coding Stats ⏱️
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-```txt
-No activity tracked
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                6112 commits        █████████░░░░░░░░░░░░░░░░   35.04 % 
+🌆 Daytime                2511 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+🌃 Evening                8819 commits        █████████████░░░░░░░░░░░░   50.56 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   2269 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Tuesday                  2165 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Wednesday                2208 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Thursday                 2456 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Friday                   2464 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Saturday                 2310 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Sunday                   3570 commits        █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 07/02/2026 13:27:57 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
