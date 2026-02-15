@@ -99,6 +99,8 @@ dev-o-los                0 secs              ░░░░░░░░░░░�
  Last Updated on 15/02/2026 02:02:48 UTC
 <!--END_SECTION:waka-->
 
+![LeetCode Stats](https://leetcode.card.workers.dev/utkarshdev_?theme=auto&font=source_code_pro&extension=activity)
+
 <!-- ### 🐍 Contribution Snake Animation 🐍
 
 <p align="center">
