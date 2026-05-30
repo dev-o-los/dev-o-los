@@ -54,8 +54,45 @@ Here are some of the tools and languages I wield in my digital dojo:
 ### ⏱️ Coding Stats ⏱️
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2036%20mins-blue?style=flat)
 
- Last Updated on 29/05/2026 02:59:24 UTC
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                6464 commits        █████████░░░░░░░░░░░░░░░░   35.60 % 
+🌆 Daytime                2663 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+🌃 Evening                9032 commits        ████████████░░░░░░░░░░░░░   49.74 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   2375 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Tuesday                  2225 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Wednesday                2311 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Thursday                 2514 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Friday                   2505 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Saturday                 2481 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Sunday                   3748 commits        █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               1 hr 44 mins        ████████████████████░░░░░   78.98 % 
+JSON                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Dart                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+
+🐱‍💻 Projects: 
+klarden                  2 hrs               ███████████████████████░░   90.44 % 
+yolo                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+```
+
+
+ Last Updated on 30/05/2026 02:50:50 UTC
 <!--END_SECTION:waka-->
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/utkarshdev_?theme=auto&font=source_code_pro&extension=activity)
