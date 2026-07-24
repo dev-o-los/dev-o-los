@@ -54,8 +54,6 @@ Here are some of the tools and languages I wield in my digital dojo:
 ### ⏱️ Coding Stats ⏱️
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2036%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -88,7 +86,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 23/07/2026 02:30:51 UTC
+ Last Updated on 24/07/2026 02:27:58 UTC
 <!--END_SECTION:waka-->
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/utkarshdev_?theme=auto&font=source_code_pro&extension=activity)
