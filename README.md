@@ -54,8 +54,49 @@ Here are some of the tools and languages I wield in my digital dojo:
 ### ⏱️ Coding Stats ⏱️
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2017%20mins-blue?style=flat)
 
- Last Updated on 07/08/2026 02:35:12 UTC
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2045%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                6575 commits        █████████░░░░░░░░░░░░░░░░   35.95 % 
+🌆 Daytime                2669 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+🌃 Evening                9043 commits        ████████████░░░░░░░░░░░░░   49.45 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   2406 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Tuesday                  2253 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Wednesday                2330 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Thursday                 2520 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+Friday                   2513 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+Saturday                 2498 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Sunday                   3767 commits        █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 08/08/2026 01:21:33 UTC
 <!--END_SECTION:waka-->
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/utkarshdev_?theme=auto&font=source_code_pro&extension=activity)
