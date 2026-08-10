@@ -54,9 +54,9 @@ Here are some of the tools and languages I wield in my digital dojo:
 ### ⏱️ Coding Stats ⏱️
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%207%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -83,41 +83,41 @@ Sunday                   3767 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 25 mins             ███████████░░░░░░░░░░░░░░   45.17 % 
-JSON                     13 mins             ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
-Python                   13 mins             ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
-CSV                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Python                   50 mins             ██████████████░░░░░░░░░░░   54.24 % 
+Markdown                 25 mins             ███████░░░░░░░░░░░░░░░░░░   27.18 % 
+JSON                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+CSV                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 🐱‍💻 Projects: 
-klarden                  33 mins             ███████████████░░░░░░░░░░   59.67 % 
-ml                       22 mins             ██████████░░░░░░░░░░░░░░░   40.33 % 
+ml                       59 mins             ████████████████░░░░░░░░░   64.10 % 
+klarden                  33 mins             █████████░░░░░░░░░░░░░░░░   35.90 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 55 mins (100.0%)
+⏱ AI Coding Time: 1 hr (65.46%)
 
-✍️ 23 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 23 lines written by AI, 4 lines written by hand (85.19% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 17 AI Prompts
+🧠 4 AI Sessions, 18 AI Prompts
 
 Gemini                   23 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 431 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 85.19% of written lines came from AI
+📝 Concise Prompter — average 434 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 25.81% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/08/2026 01:26:46 UTC
+ Last Updated on 10/08/2026 01:28:36 UTC
 <!--END_SECTION:waka-->
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/utkarshdev_?theme=auto&font=source_code_pro&extension=activity)
