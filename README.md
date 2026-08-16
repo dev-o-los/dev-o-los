@@ -63,15 +63,15 @@ Here are some of the tools and languages I wield in my digital dojo:
 ```text
 🌞 Morning                6577 commits        █████████░░░░░░░░░░░░░░░░   35.96 % 
 🌆 Daytime                2669 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-🌃 Evening                9043 commits        ████████████░░░░░░░░░░░░░   49.45 % 
+🌃 Evening                9044 commits        ████████████░░░░░░░░░░░░░   49.45 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   2406 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Monday                   2406 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
 Tuesday                  2254 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Wednesday                2331 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Wednesday                2332 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
 Thursday                 2520 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
 Friday                   2513 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
 Saturday                 2498 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
@@ -83,18 +83,16 @@ Sunday                   3767 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 26 mins        ███████████████████████░░   90.43 % 
-Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-CSV                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Python                   1 hr 13 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ml                       1 hr 35 mins        █████████████████████████   100.00 % 
+ml                       1 hr 13 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 mins (28.7%)
+⏱ AI Coding Time: 4 mins (6.72%)
 
 ✍️ 0 lines written by AI, 9 lines written by hand (0.0% AI-written)
 
@@ -102,17 +100,17 @@ ml                       1 hr 35 mins        ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 35 AI Prompts
+🧠 2 AI Sessions, 21 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
 📝 Concise Prompter — average 484 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
+🔁 Iterative Prompter — average 10 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/08/2026 01:04:56 UTC
+ Last Updated on 16/08/2026 01:10:09 UTC
 <!--END_SECTION:waka-->
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/utkarshdev_?theme=auto&font=source_code_pro&extension=activity)
