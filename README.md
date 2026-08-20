@@ -83,35 +83,35 @@ Sunday                   3767 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 7 mins         ████████████████████████░   96.22 % 
-CSV                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Python                   48 mins             ████████████████████████░   94.84 % 
+CSV                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
 
 🐱‍💻 Projects: 
-ml                       1 hr 9 mins         █████████████████████████   100.00 % 
+ml                       51 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (3.78%)
+⏱ AI Coding Time: 2 mins (5.16%)
 
-✍️ 0 lines written by AI, 35 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 246 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 24 AI Prompts
+🧠 3 AI Sessions, 3 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 465 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📝 Concise Prompter — average 352 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/08/2026 01:06:41 UTC
+ Last Updated on 20/08/2026 01:06:54 UTC
 <!--END_SECTION:waka-->
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/utkarshdev_?theme=auto&font=source_code_pro&extension=activity)
