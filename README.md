@@ -83,37 +83,36 @@ Sunday                   3767 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   48 mins             ███████████████████████░░   90.50 % 
-CSV                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Python                   25 mins             ███████████████████████░░   91.18 % 
+Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
 
 🐱‍💻 Projects: 
-ml                       51 mins             ████████████████████████░   95.42 % 
-wazz                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+ml                       25 mins             ███████████████████████░░   91.18 % 
+wazz                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 mins (9.5%)
+⏱ AI Coding Time: 2 mins (8.82%)
 
-✍️ 0 lines written by AI, 246 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 216 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 6 AI Prompts
+🧠 3 AI Sessions, 4 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 340 characters per prompt
+📝 Concise Prompter — average 380 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/08/2026 01:08:26 UTC
+ Last Updated on 25/08/2026 01:07:27 UTC
 <!--END_SECTION:waka-->
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/utkarshdev_?theme=auto&font=source_code_pro&extension=activity)
