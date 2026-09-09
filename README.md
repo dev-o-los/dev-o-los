@@ -83,38 +83,37 @@ Sunday                   3767 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               26 mins             █████████████████████████   100.00 % 
+TypeScript               21 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-rd                       21 mins             ████████████████████░░░░░   81.36 % 
-klarden                  4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+rd                       21 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 mins (94.03%)
+⏱ AI Coding Time: 19 mins (92.99%)
 
-✍️ 7 lines written by AI, 40 lines written by hand (14.89% AI-written)
+✍️ 7 lines written by AI, 29 lines written by hand (19.44% AI-written)
 
 🔤 25,185 Input Tokens, 217 Output Tokens
 
 💵 $0.08 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 14 AI Prompts
+🧠 3 AI Sessions, 8 AI Prompts
 
 Gpt-Oss                  7 lines             █████████████████████████   100.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 14.89% of written lines came from AI
-📚 Verbose Prompter — average 3,402 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 85.71% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 19.44% of written lines came from AI
+📚 Verbose Prompter — average 1,513 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 81.58% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/09/2026 02:58:46 UTC
+ Last Updated on 09/09/2026 03:00:17 UTC
 <!--END_SECTION:waka-->
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/utkarshdev_?theme=auto&font=source_code_pro&extension=activity)
