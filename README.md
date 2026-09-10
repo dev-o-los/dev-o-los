@@ -83,37 +83,37 @@ Sunday                   3767 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               21 mins             █████████████████████████   100.00 % 
+Markdown                 7 mins              ██████████████░░░░░░░░░░░   55.35 % 
+Python                   6 mins              ███████████░░░░░░░░░░░░░░   44.65 % 
 
 🐱‍💻 Projects: 
-rd                       21 mins             █████████████████████████   100.00 % 
+ObjectDetector-main      6 mins              ████████████░░░░░░░░░░░░░   49.01 % 
+face-recognition-using-de6 mins              ███████████░░░░░░░░░░░░░░   43.13 % 
+microsoft vs code        1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 mins (92.99%)
+⏱ AI Coding Time: 13 mins (100.0%)
 
-✍️ 7 lines written by AI, 29 lines written by hand (19.44% AI-written)
+✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
 
-🔤 25,185 Input Tokens, 217 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.08 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 8 AI Prompts
-
-Gpt-Oss                  7 lines             █████████████████████████   100.00 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🧠 2 AI Sessions, 15 AI Prompts
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 19.44% of written lines came from AI
-📚 Verbose Prompter — average 1,513 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 81.58% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 1,716 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/09/2026 03:00:17 UTC
+ Last Updated on 10/09/2026 03:00:11 UTC
 <!--END_SECTION:waka-->
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/utkarshdev_?theme=auto&font=source_code_pro&extension=activity)
