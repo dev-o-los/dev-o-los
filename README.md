@@ -54,9 +54,9 @@ Here are some of the tools and languages I wield in my digital dojo:
 ### ⏱️ Coding Stats ⏱️
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%203%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -83,44 +83,44 @@ Sunday                   3767 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               55 mins             ███████████░░░░░░░░░░░░░░   42.23 % 
-Markdown                 47 mins             █████████░░░░░░░░░░░░░░░░   36.15 % 
-Python                   14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Python                   14 mins             ████████░░░░░░░░░░░░░░░░░   31.02 % 
+TypeScript               12 mins             ███████░░░░░░░░░░░░░░░░░░   28.13 % 
+Markdown                 7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+YAML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Text                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
 
 🐱‍💻 Projects: 
-rd                       1 hr 38 mins        ███████████████████░░░░░░   74.84 % 
-ObjectDetector-main      19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-face-recognition-using-de6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-yolo                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-microsoft vs code        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+ObjectDetector-main      19 mins             ███████████░░░░░░░░░░░░░░   42.61 % 
+rd                       12 mins             ███████░░░░░░░░░░░░░░░░░░   28.39 % 
+yolo                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+face-recognition-using-de6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+microsoft vs code        1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 4 mins (94.21%)
+⏱ AI Coding Time: 37 mins (83.26%)
 
-✍️ 600 lines written by AI, 2 lines written by hand (99.67% AI-written)
+✍️ 12 lines written by AI, 2 lines written by hand (85.71% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 36 AI Prompts
+🧠 5 AI Sessions, 31 AI Prompts
 
-Gemini                   624 lines           █████████████████████████   100.00 % 
+Gemini                   12 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.67% of written lines came from AI
-📚 Verbose Prompter — average 2,173 characters per prompt
+🤖 AI-Driven — 85.71% of written lines came from AI
+📚 Verbose Prompter — average 2,512 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.32% of changed lines were hand-edited
+🚀 High AI Trust — 14.29% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/09/2026 02:54:56 UTC
+ Last Updated on 12/09/2026 03:03:01 UTC
 <!--END_SECTION:waka-->
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/utkarshdev_?theme=auto&font=source_code_pro&extension=activity)
