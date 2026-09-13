@@ -83,44 +83,40 @@ Sunday                   3767 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   14 mins             ████████░░░░░░░░░░░░░░░░░   31.02 % 
-TypeScript               12 mins             ███████░░░░░░░░░░░░░░░░░░   28.13 % 
-Markdown                 7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-YAML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Text                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Python                   14 mins             ███████████░░░░░░░░░░░░░░   43.31 % 
+Markdown                 7 mins              ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+YAML                     6 mins              █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+Text                     4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
 
 🐱‍💻 Projects: 
-ObjectDetector-main      19 mins             ███████████░░░░░░░░░░░░░░   42.61 % 
-rd                       12 mins             ███████░░░░░░░░░░░░░░░░░░   28.39 % 
-yolo                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-face-recognition-using-de6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-microsoft vs code        1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+ObjectDetector-main      19 mins             ███████████████░░░░░░░░░░   59.50 % 
+yolo                     6 mins              █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+face-recognition-using-de6 mins              █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+microsoft vs code        1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 mins (83.26%)
+⏱ AI Coding Time: 25 mins (76.63%)
 
-✍️ 12 lines written by AI, 2 lines written by hand (85.71% AI-written)
+✍️ 0 lines written by AI, 2 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 31 AI Prompts
-
-Gemini                   12 lines            █████████████████████████   100.00 % 
+🧠 4 AI Sessions, 31 AI Prompts
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.71% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
 📚 Verbose Prompter — average 2,512 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 14.29% of changed lines were hand-edited
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 12/09/2026 03:03:01 UTC
+ Last Updated on 13/09/2026 03:03:42 UTC
 <!--END_SECTION:waka-->
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/utkarshdev_?theme=auto&font=source_code_pro&extension=activity)
