@@ -83,24 +83,26 @@ Sunday                   3767 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   14 mins             ███████████░░░░░░░░░░░░░░   43.31 % 
-Markdown                 7 mins              ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
-YAML                     6 mins              █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
-Text                     4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Dart                     25 mins             ███████████░░░░░░░░░░░░░░   43.71 % 
+Python                   14 mins             ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+Markdown                 7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+YAML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Text                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
 
 🐱‍💻 Projects: 
-ObjectDetector-main      19 mins             ███████████████░░░░░░░░░░   59.50 % 
-yolo                     6 mins              █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
-face-recognition-using-de6 mins              █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
-microsoft vs code        1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+awazz                    25 mins             ███████████░░░░░░░░░░░░░░   43.71 % 
+ObjectDetector-main      19 mins             ████████░░░░░░░░░░░░░░░░░   33.49 % 
+yolo                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+face-recognition-using-de6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+microsoft vs code        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 mins (76.63%)
+⏱ AI Coding Time: 25 mins (43.13%)
 
-✍️ 0 lines written by AI, 2 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 5 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -116,7 +118,7 @@ microsoft vs code        1 min               █░░░░░░░░░░�
 ```
 
 
- Last Updated on 14/09/2026 03:16:38 UTC
+ Last Updated on 15/09/2026 03:18:36 UTC
 <!--END_SECTION:waka-->
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/utkarshdev_?theme=auto&font=source_code_pro&extension=activity)
