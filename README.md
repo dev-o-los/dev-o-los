@@ -54,9 +54,9 @@ Here are some of the tools and languages I wield in my digital dojo:
 ### ⏱️ Coding Stats ⏱️
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%207%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2029%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -83,24 +83,23 @@ Sunday                   3767 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     43 mins             ██████████░░░░░░░░░░░░░░░   40.87 % 
-JSON                     38 mins             █████████░░░░░░░░░░░░░░░░   36.99 % 
-TypeScript               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Dart                     43 mins             ███████████░░░░░░░░░░░░░░   45.53 % 
+JSON                     38 mins             ██████████░░░░░░░░░░░░░░░   41.21 % 
+TypeScript               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-awazz                    41 mins             ██████████░░░░░░░░░░░░░░░   39.05 % 
-rd                       40 mins             ██████████░░░░░░░░░░░░░░░   38.02 % 
-yolo                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-klarden-ui               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-ObjectDetector-main      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+awazz                    41 mins             ███████████░░░░░░░░░░░░░░   43.50 % 
+rd                       40 mins             ███████████░░░░░░░░░░░░░░   42.35 % 
+klarden-ui               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+yolo                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 mins (35.03%)
+⏱ AI Coding Time: 26 mins (27.62%)
 
 ✍️ 1 lines written by AI, 11 lines written by hand (8.33% AI-written)
 
@@ -108,20 +107,20 @@ ObjectDetector-main      4 mins              █░░░░░░░░░░�
 
 💵 $0.04 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 15 AI Prompts
+🧠 2 AI Sessions, 2 AI Prompts
 
 Gemini                   1 lines             █████████████████████████   100.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 8.33% of written lines came from AI
-📚 Verbose Prompter — average 3,360 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 46 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 96.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/09/2026 03:19:29 UTC
+ Last Updated on 18/09/2026 03:06:04 UTC
 <!--END_SECTION:waka-->
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/utkarshdev_?theme=auto&font=source_code_pro&extension=activity)
