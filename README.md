@@ -61,8 +61,8 @@ Here are some of the tools and languages I wield in my digital dojo:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6588 commits        █████████░░░░░░░░░░░░░░░░   36.00 % 
-🌆 Daytime                2669 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+🌞 Morning                6588 commits        █████████░░░░░░░░░░░░░░░░   35.99 % 
+🌆 Daytime                2670 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
 🌃 Evening                9045 commits        ████████████░░░░░░░░░░░░░   49.42 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
@@ -70,11 +70,11 @@ Here are some of the tools and languages I wield in my digital dojo:
 
 ```text
 Monday                   2406 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Tuesday                  2254 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Tuesday                  2254 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
 Wednesday                2335 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
 Thursday                 2522 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-Friday                   2517 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-Saturday                 2501 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Friday                   2518 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Saturday                 2501 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
 Sunday                   3767 commits        █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
 ```
 
@@ -83,23 +83,24 @@ Sunday                   3767 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     43 mins             ███████████░░░░░░░░░░░░░░   45.53 % 
-JSON                     38 mins             ██████████░░░░░░░░░░░░░░░   41.21 % 
-TypeScript               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Dart                     43 mins             ██████████░░░░░░░░░░░░░░░   41.11 % 
+JSON                     38 mins             █████████░░░░░░░░░░░░░░░░   37.22 % 
+HTML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+TypeScript               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 
 🐱‍💻 Projects: 
-awazz                    41 mins             ███████████░░░░░░░░░░░░░░   43.50 % 
-rd                       40 mins             ███████████░░░░░░░░░░░░░░   42.35 % 
-klarden-ui               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-yolo                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+awazz                    41 mins             ██████████░░░░░░░░░░░░░░░   39.29 % 
+rd                       40 mins             ██████████░░░░░░░░░░░░░░░   38.24 % 
+klarden-redirect         10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+klarden-ui               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+yolo                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 mins (27.62%)
+⏱ AI Coding Time: 26 mins (24.94%)
 
 ✍️ 1 lines written by AI, 11 lines written by hand (8.33% AI-written)
 
@@ -120,7 +121,7 @@ Github-Copilot           0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 18/09/2026 03:06:04 UTC
+ Last Updated on 19/09/2026 03:03:34 UTC
 <!--END_SECTION:waka-->
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/utkarshdev_?theme=auto&font=source_code_pro&extension=activity)
