@@ -54,14 +54,14 @@ Here are some of the tools and languages I wield in my digital dojo:
 ### ⏱️ Coding Stats ⏱️
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2017%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2029%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6588 commits        █████████░░░░░░░░░░░░░░░░   35.99 % 
+🌞 Morning                6589 commits        █████████░░░░░░░░░░░░░░░░   36.00 % 
 🌆 Daytime                2670 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
 🌃 Evening                9045 commits        ████████████░░░░░░░░░░░░░   49.42 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -69,12 +69,12 @@ Here are some of the tools and languages I wield in my digital dojo:
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   2406 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+Monday                   2406 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
 Tuesday                  2254 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
 Wednesday                2335 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
 Thursday                 2522 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
 Friday                   2518 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Saturday                 2501 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Saturday                 2502 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
 Sunday                   3767 commits        █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
 ```
 
@@ -83,45 +83,45 @@ Sunday                   3767 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     43 mins             ██████████░░░░░░░░░░░░░░░   41.11 % 
-JSON                     38 mins             █████████░░░░░░░░░░░░░░░░   37.22 % 
-HTML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-TypeScript               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Dart                     43 mins             ████████░░░░░░░░░░░░░░░░░   33.86 % 
+JSON                     42 mins             ████████░░░░░░░░░░░░░░░░░   33.21 % 
+TypeScript               23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+HTML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
 
 🐱‍💻 Projects: 
-awazz                    41 mins             ██████████░░░░░░░░░░░░░░░   39.29 % 
-rd                       40 mins             ██████████░░░░░░░░░░░░░░░   38.24 % 
-klarden-redirect         10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-klarden-ui               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-yolo                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+awazz                    41 mins             ████████░░░░░░░░░░░░░░░░░   32.36 % 
+rd                       40 mins             ████████░░░░░░░░░░░░░░░░░   31.50 % 
+klarden-ui               27 mins             █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+klarden-redirect         12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+yolo                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 mins (24.94%)
+⏱ AI Coding Time: 36 mins (28.71%)
 
-✍️ 1 lines written by AI, 11 lines written by hand (8.33% AI-written)
+✍️ 128 lines written by AI, 11 lines written by hand (92.09% AI-written)
 
 🔤 8,373 Input Tokens, 933 Output Tokens
 
 💵 $0.04 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 2 AI Prompts
+🧠 3 AI Sessions, 3 AI Prompts
 
-Gemini                   1 lines             █████████████████████████   100.00 % 
+Gemini                   128 lines           █████████████████████████   100.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 8.33% of written lines came from AI
-📝 Concise Prompter — average 46 characters per prompt
+🤖 AI-Driven — 92.09% of written lines came from AI
+📝 Concise Prompter — average 119 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 96.0% of changed lines were hand-edited
+🚀 High AI Trust — 15.79% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/09/2026 03:03:34 UTC
+ Last Updated on 20/09/2026 03:17:02 UTC
 <!--END_SECTION:waka-->
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/utkarshdev_?theme=auto&font=source_code_pro&extension=activity)
