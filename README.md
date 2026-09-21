@@ -54,9 +54,9 @@ Here are some of the tools and languages I wield in my digital dojo:
 ### ⏱️ Coding Stats ⏱️
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2039%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -83,26 +83,26 @@ Sunday                   3767 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     43 mins             ████████░░░░░░░░░░░░░░░░░   33.86 % 
-JSON                     42 mins             ████████░░░░░░░░░░░░░░░░░   33.21 % 
-TypeScript               23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-HTML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Dart                     43 mins             ████████░░░░░░░░░░░░░░░░░   32.38 % 
+JSON                     42 mins             ████████░░░░░░░░░░░░░░░░░   31.75 % 
+TypeScript               23 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+HTML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 
 🐱‍💻 Projects: 
-awazz                    41 mins             ████████░░░░░░░░░░░░░░░░░   32.36 % 
-rd                       40 mins             ████████░░░░░░░░░░░░░░░░░   31.50 % 
-klarden-ui               27 mins             █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
-klarden-redirect         12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-yolo                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+awazz                    41 mins             ████████░░░░░░░░░░░░░░░░░   30.94 % 
+rd                       40 mins             ████████░░░░░░░░░░░░░░░░░   30.12 % 
+klarden-ui               27 mins             █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+klarden-redirect         12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+yolo                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 mins (28.71%)
+⏱ AI Coding Time: 36 mins (27.45%)
 
-✍️ 128 lines written by AI, 11 lines written by hand (92.09% AI-written)
+✍️ 128 lines written by AI, 29 lines written by hand (81.53% AI-written)
 
 🔤 8,373 Input Tokens, 933 Output Tokens
 
@@ -114,14 +114,14 @@ Gemini                   128 lines           ███████████�
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.09% of written lines came from AI
+🤖 AI-Driven — 81.53% of written lines came from AI
 📝 Concise Prompter — average 119 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 15.79% of changed lines were hand-edited
+🚀 High AI Trust — 24.71% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/09/2026 03:17:02 UTC
+ Last Updated on 21/09/2026 03:13:45 UTC
 <!--END_SECTION:waka-->
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/utkarshdev_?theme=auto&font=source_code_pro&extension=activity)
