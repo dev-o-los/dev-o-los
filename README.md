@@ -83,45 +83,43 @@ Sunday                   3767 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     42 mins             ██████████░░░░░░░░░░░░░░░   39.24 % 
-TypeScript               23 mins             █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-Dart                     17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-HTML                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+TypeScript               20 mins             ██████████░░░░░░░░░░░░░░░   40.16 % 
+HTML                     12 mins             ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
+Markdown                 5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Python                   5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+JSON                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
 
 🐱‍💻 Projects: 
-rd                       40 mins             █████████░░░░░░░░░░░░░░░░   37.22 % 
-klarden-ui               27 mins             ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
-awazz                    15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-klarden-redirect         12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-yolo                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+klarden-ui               26 mins             █████████████░░░░░░░░░░░░   52.03 % 
+klarden-redirect         12 mins             ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
+yolo                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+programming              5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 mins (33.93%)
+⏱ AI Coding Time: 19 mins (39.33%)
 
-✍️ 128 lines written by AI, 26 lines written by hand (83.12% AI-written)
+✍️ 128 lines written by AI, 25 lines written by hand (83.66% AI-written)
 
-🔤 8,373 Input Tokens, 933 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.04 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
 🧠 3 AI Sessions, 3 AI Prompts
 
 Gemini                   128 lines           █████████████████████████   100.00 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 83.12% of written lines came from AI
-📝 Concise Prompter — average 119 characters per prompt
+🤖 AI-Driven — 83.66% of written lines came from AI
+📝 Concise Prompter — average 173 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 21.95% of changed lines were hand-edited
+🚀 High AI Trust — 20.5% of changed lines were hand-edited
 ```
 
 
- Last Updated on 22/09/2026 03:13:05 UTC
+ Last Updated on 23/09/2026 03:13:08 UTC
 <!--END_SECTION:waka-->
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/utkarshdev_?theme=auto&font=source_code_pro&extension=activity)
