@@ -54,28 +54,28 @@ Here are some of the tools and languages I wield in my digital dojo:
 ### ⏱️ Coding Stats ⏱️
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2052%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6589 commits        █████████░░░░░░░░░░░░░░░░   36.00 % 
-🌆 Daytime                2671 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-🌃 Evening                9045 commits        ████████████░░░░░░░░░░░░░   49.41 % 
+🌞 Morning                6591 commits        █████████░░░░░░░░░░░░░░░░   36.13 % 
+🌆 Daytime                2671 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+🌃 Evening                8981 commits        ████████████░░░░░░░░░░░░░   49.23 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   2406 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-Tuesday                  2254 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Wednesday                2336 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Thursday                 2522 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-Friday                   2518 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Saturday                 2502 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Sunday                   3767 commits        █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
+Monday                   2406 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+Tuesday                  2254 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Wednesday                2272 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Thursday                 2524 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Friday                   2518 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Saturday                 2502 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+Sunday                   3767 commits        █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
 ```
 
 
@@ -83,24 +83,24 @@ Sunday                   3767 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               16 mins             ████████░░░░░░░░░░░░░░░░░   31.98 % 
-HTML                     12 mins             ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
-Other                    9 mins              █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
-Python                   5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-JSON                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+TypeScript               16 mins             ████████░░░░░░░░░░░░░░░░░   32.36 % 
+HTML                     12 mins             ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
+Other                    8 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+Python                   5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+JSON                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
 
 🐱‍💻 Projects: 
-klarden-ui               20 mins             ██████████░░░░░░░░░░░░░░░   39.37 % 
-klarden-redirect         12 mins             ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
-Configs                  7 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-programming              5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-blur_glass               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+klarden-ui               19 mins             ██████████░░░░░░░░░░░░░░░   38.64 % 
+klarden-redirect         12 mins             ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
+Configs                  7 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+programming              5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+blur_glass               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 mins (46.4%)
+⏱ AI Coding Time: 23 mins (45.76%)
 
 ✍️ 1,048 lines written by AI, 18 lines written by hand (98.31% AI-written)
 
@@ -108,20 +108,20 @@ blur_glass               5 mins              ██░░░░░░░░░�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 5 AI Prompts
+🧠 2 AI Sessions, 4 AI Prompts
 
 Grok                     921 lines           ██████████████████████░░░   87.88 % 
 Gemini                   127 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 98.31% of written lines came from AI
-📝 Concise Prompter — average 487 characters per prompt
+📄 Detailed Prompter — average 558 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 1.69% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/09/2026 03:04:13 UTC
+ Last Updated on 25/09/2026 03:20:21 UTC
 <!--END_SECTION:waka-->
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/utkarshdev_?theme=auto&font=source_code_pro&extension=activity)
