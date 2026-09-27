@@ -61,21 +61,21 @@ Here are some of the tools and languages I wield in my digital dojo:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6591 commits        █████████░░░░░░░░░░░░░░░░   36.13 % 
-🌆 Daytime                2672 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-🌃 Evening                8981 commits        ████████████░░░░░░░░░░░░░   49.23 % 
+🌞 Morning                6597 commits        █████████░░░░░░░░░░░░░░░░   36.15 % 
+🌆 Daytime                2672 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+🌃 Evening                8981 commits        ████████████░░░░░░░░░░░░░   49.21 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   2406 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+Monday                   2406 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
 Tuesday                  2254 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
 Wednesday                2272 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
 Thursday                 2524 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-Friday                   2519 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Saturday                 2502 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-Sunday                   3767 commits        █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+Friday                   2519 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Saturday                 2508 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+Sunday                   3767 commits        █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
 ```
 
 
@@ -83,45 +83,44 @@ Sunday                   3767 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               16 mins             ██████████░░░░░░░░░░░░░░░   40.28 % 
-Other                    8 mins              █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
-Python                   5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-JSON                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Other                    8 mins              ████████████░░░░░░░░░░░░░   46.67 % 
+Python                   5 mins              ████████░░░░░░░░░░░░░░░░░   30.58 % 
+Markdown                 2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Swift                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 
 🐱‍💻 Projects: 
-klarden-ui               19 mins             ████████████░░░░░░░░░░░░░   48.10 % 
-Configs                  7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
-programming              5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-blur_glass               5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-klarden-redirect         2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Configs                  7 mins              ██████████░░░░░░░░░░░░░░░   38.96 % 
+programming              5 mins              ████████░░░░░░░░░░░░░░░░░   30.58 % 
+blur_glass               5 mins              ███████░░░░░░░░░░░░░░░░░░   27.06 % 
+Base.lproj               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+plans                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 mins (56.96%)
+⏱ AI Coding Time: 13 mins (69.42%)
 
-✍️ 1,048 lines written by AI, 18 lines written by hand (98.31% AI-written)
+✍️ 921 lines written by AI, 18 lines written by hand (98.08% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 4 AI Prompts
+🧠 1 AI Sessions, 3 AI Prompts
 
-Grok                     921 lines           ██████████████████████░░░   87.88 % 
-Gemini                   127 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Grok                     921 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.31% of written lines came from AI
-📄 Detailed Prompter — average 558 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 1.69% of changed lines were hand-edited
+🤖 AI-Driven — 98.08% of written lines came from AI
+📄 Detailed Prompter — average 656 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 1.92% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/09/2026 03:25:33 UTC
+ Last Updated on 27/09/2026 03:33:38 UTC
 <!--END_SECTION:waka-->
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/utkarshdev_?theme=auto&font=source_code_pro&extension=activity)
