@@ -83,20 +83,41 @@ Sunday                   3772 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               50 mins             ████████████░░░░░░░░░░░░░   49.10 % 
+Markdown                 39 mins             ██████████░░░░░░░░░░░░░░░   38.02 % 
+Bash                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+blur-glass-next          1 hr 41 mins        █████████████████████████   98.02 % 
+blur_glass               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 43 mins (100.0%)
+
+✍️ 2,756 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 1,208,131 Input Tokens, 77,564 Output Tokens
+
+💵 $1.20 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 5 AI Prompts
+
+Gemini                   2,766 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 100 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/10/2026 04:45:40 UTC
+ Last Updated on 07/10/2026 04:12:35 UTC
 <!--END_SECTION:waka-->
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/utkarshdev_?theme=auto&font=source_code_pro&extension=activity)
