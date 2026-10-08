@@ -61,21 +61,21 @@ Here are some of the tools and languages I wield in my digital dojo:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6616 commits        █████████░░░░░░░░░░░░░░░░   36.21 % 
-🌆 Daytime                2672 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-🌃 Evening                8981 commits        ████████████░░░░░░░░░░░░░   49.16 % 
+🌞 Morning                6619 commits        █████████░░░░░░░░░░░░░░░░   36.22 % 
+🌆 Daytime                2672 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+🌃 Evening                8981 commits        ████████████░░░░░░░░░░░░░   49.15 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   2409 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+Monday                   2409 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
 Tuesday                  2258 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-Wednesday                2272 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Wednesday                2275 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
 Thursday                 2531 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
 Friday                   2519 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
 Saturday                 2508 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Sunday                   3772 commits        █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+Sunday                   3772 commits        █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
 ```
 
 
@@ -83,41 +83,41 @@ Sunday                   3772 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               50 mins             ████████████░░░░░░░░░░░░░   49.10 % 
-Markdown                 39 mins             ██████████░░░░░░░░░░░░░░░   38.02 % 
-Bash                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+TypeScript               50 mins             ███████░░░░░░░░░░░░░░░░░░   28.26 % 
+Markdown                 39 mins             █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+Swift                    35 mins             █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+Dart                     34 mins             █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
+Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
 
 🐱‍💻 Projects: 
-blur-glass-next          1 hr 41 mins        █████████████████████████   98.02 % 
-blur_glass               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+blur-glass-next          1 hr 41 mins        ██████████████░░░░░░░░░░░   56.42 % 
+blur_glass               1 hr 18 mins        ███████████░░░░░░░░░░░░░░   43.58 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 43 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 59 mins (100.0%)
 
-✍️ 2,756 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,804 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,208,131 Input Tokens, 77,564 Output Tokens
+🔤 2,536,549 Input Tokens, 187,568 Output Tokens
 
-💵 $1.20 Estimated AI Cost This Week
+💵 $5.17 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 5 AI Prompts
+🧠 2 AI Sessions, 9 AI Prompts
 
-Gemini                   2,766 lines         █████████████████████████   100.00 % 
+Gemini                   3,971 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 100 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 73 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 07/10/2026 04:12:35 UTC
+ Last Updated on 08/10/2026 04:23:13 UTC
 <!--END_SECTION:waka-->
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/utkarshdev_?theme=auto&font=source_code_pro&extension=activity)
