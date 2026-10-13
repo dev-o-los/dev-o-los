@@ -83,42 +83,40 @@ Sunday                   3772 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     1 hr 21 mins        ███████████░░░░░░░░░░░░░░   42.40 % 
-Swift                    1 hr 12 mins        █████████░░░░░░░░░░░░░░░░   37.68 % 
-TypeScript               24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Swift                    1 hr 12 mins        ████████████░░░░░░░░░░░░░   48.03 % 
+Dart                     1 hr 8 mins         ███████████░░░░░░░░░░░░░░   45.23 % 
+Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Cocoa                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 🐱‍💻 Projects: 
-blur_glass               2 hrs 44 mins       █████████████████████░░░░   85.42 % 
-blur-glass-next          28 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+blur_glass               2 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 59 mins (93.08%)
+⏱ AI Coding Time: 2 hrs 30 mins (100.0%)
 
-✍️ 5,675 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,837 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,017,415 Input Tokens, 277,616 Output Tokens
+🔤 3,044,528 Input Tokens, 215,726 Output Tokens
 
-💵 $10.31 Estimated AI Cost This Week
+💵 $8.68 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 18 AI Prompts
+🧠 3 AI Sessions, 14 AI Prompts
 
-Gemini                   3,966 lines         █████████████████░░░░░░░░   67.92 % 
-Sonnet                   1,873 lines         ████████░░░░░░░░░░░░░░░░░   32.08 % 
+Gemini                   3,001 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 164 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 95 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 12/10/2026 04:12:39 UTC
+ Last Updated on 13/10/2026 05:23:01 UTC
 <!--END_SECTION:waka-->
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/utkarshdev_?theme=auto&font=source_code_pro&extension=activity)
