@@ -83,40 +83,40 @@ Sunday                   3772 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Swift                    1 hr 12 mins        ████████████░░░░░░░░░░░░░   48.03 % 
-Dart                     1 hr 8 mins         ███████████░░░░░░░░░░░░░░   45.23 % 
-Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-Cocoa                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Swift                    35 mins             ████████████░░░░░░░░░░░░░   46.44 % 
+Dart                     34 mins             ███████████░░░░░░░░░░░░░░   45.40 % 
+Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Cocoa                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 
 🐱‍💻 Projects: 
-blur_glass               2 hrs 30 mins       █████████████████████████   100.00 % 
+blur_glass               1 hr 16 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 30 mins (100.0%)
+⏱ AI Coding Time: 1 hr 16 mins (100.0%)
 
-✍️ 2,837 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,048 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,044,528 Input Tokens, 215,726 Output Tokens
+🔤 1,328,418 Input Tokens, 110,004 Output Tokens
 
-💵 $8.68 Estimated AI Cost This Week
+💵 $3.98 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 14 AI Prompts
+🧠 1 AI Sessions, 4 AI Prompts
 
-Gemini                   3,001 lines         █████████████████████████   100.00 % 
+Gemini                   1,205 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 95 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 39 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/10/2026 05:23:01 UTC
+ Last Updated on 14/10/2026 03:28:50 UTC
 <!--END_SECTION:waka-->
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/utkarshdev_?theme=auto&font=source_code_pro&extension=activity)
